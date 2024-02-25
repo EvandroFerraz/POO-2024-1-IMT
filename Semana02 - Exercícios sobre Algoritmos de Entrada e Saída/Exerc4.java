@@ -1,3 +1,5 @@
+// 4. Leia um número e imprima seu antecessor
+
 import javax.swing.JOptionPane;
 
 public class Exerc4{
