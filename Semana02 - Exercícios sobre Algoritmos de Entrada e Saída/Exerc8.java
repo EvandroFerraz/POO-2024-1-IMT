@@ -2,7 +2,7 @@
 
 import javax.swing.JOptionPane;
 
-public class PercentualVotos {
+public class Exerc8 {
     public static void main(String[] args) {
         int totalEleitores = Integer.parseInt(JOptionPane.showInputDialog("Digite o número total de eleitores:"));
         int votosBrancos = Integer.parseInt(JOptionPane.showInputDialog("Digite o número de votos brancos:"));
