@@ -11,7 +11,7 @@ média < 2:  Reprovado. Nos vemos semestre que vem.
 
 import javax.swing.JOptionPane;
 
-public class Exercicio9 {
+public class Exercicio09 {
 
     public static void main(String[] args) {
         double nota1 = Double.parseDouble(JOptionPane.showInputDialog("Digite a primeira nota: "));
