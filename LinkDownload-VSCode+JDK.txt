@@ -5,3 +5,6 @@ Download JDK 21:
 
 Download VSCode:
 https://code.visualstudio.com/download
+
+Download Netbeans
+https://netbeans.apache.org/front/main/download/index.html
