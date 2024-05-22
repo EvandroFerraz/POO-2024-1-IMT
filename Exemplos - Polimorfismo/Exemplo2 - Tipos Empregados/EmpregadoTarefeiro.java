@@ -1,3 +1,4 @@
+//tipo 5: valorTarefa * numeroTarefas
 public class EmpregadoTarefeiro extends Empregado{
     // herda salario da classe Empregado
     private double valorTarefa;
@@ -9,6 +10,7 @@ public class EmpregadoTarefeiro extends Empregado{
         this.numeroTarefas = numeroTarefas;
     }
 
+    // sobrescreve o método calculoSalario() do Empregado
     public double calculoSalario(){
         return this.valorTarefa*this.numeroTarefas;
     }
